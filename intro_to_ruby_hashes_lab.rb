@@ -5,6 +5,8 @@ def base_hash
   travel = {
     :railroads = {}
   }
+  
+travel
 
 end
 
